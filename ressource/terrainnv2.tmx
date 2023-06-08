@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="right-down" width="60" height="60" tilewidth="32" tileheight="32" infinite="0" nextlayerid="8" nextobjectid="1">
+ <tileset firstgid="1" name="PathAndObjects" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="PathAndObjects.png" trans="000000" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="257" name="terrain_atlas" tilewidth="32" tileheight="32" tilecount="1024" columns="32">
+  <image source="terrain_atlas.png" trans="000000" width="1024" height="1024"/>
+ </tileset>
+ <layer id="1" name="Calque de Tuiles 1" width="60" height="60">
+  <data encoding="base64" compression="zstd">
+   KLUv/WBANx0MAPIHEhyQ6Wb///+AKQps03u9ATNAkvzWtmC3Ldht21oK2bFf06VHzZkvjjfOWFzxBOKHGwonfHDBAwd8996d+3bNenUK+nNHeXLkj4CFqLFHZdw3sIKJpGaIHhJAEPgREAIPQQISKAQOQUjAEIAUBhQlmOvhKLNw00XmRpFaRqnuwIk/otd7hFXDfj2d9P7TMr+A8d+/KdkveVTxOqXmsJQMuuED+w/Ki5dvEb38fsF5gbV48y2ul9OvPi+qNobvZLwberZsUB2pA8h0cAJ3IPLH3PuxXSz+qsTfZL0L5h+lrvPxdY8ZS2VUJN8NojKqVS1p3WN2Zub0GydzOszMXLtxORsQ9t2QlY3GJueIKO5425UGoWCTegRG65UoCXjvwB1qeHjoL3hIPsKs4qlTtbhBVTHi2npL399RZRZN8zukSdAIJP7JzEJCfv6aZI1A7k/PiO0pCDYCwc2/hzut+SC+YWX0bcZ10mkNxtH4KnMXZr5V0y1fk4ZHQ0/BA1Eq2VvdDw==
+  </data>
+ </layer>
+ <layer id="7" name="Calque de Tuiles 2" width="60" height="60">
+  <data encoding="base64" compression="zstd">
+   KLUv/WBAN40DAMJGDhWwpYUxlp2TlpIkKXhrcEd09+5DmAKFEz64YOCAH8MmdrEN48WJD2inrfa6rp6ObrLLNvs8Ny8nAxWgICe+SdcYgMPCUmsV0C8VU5aKSrm3ErqqJSWSsqWp83iZqCWO0kNw85TalJZK2Uvq9MgH
+  </data>
+ </layer>
+</map>
